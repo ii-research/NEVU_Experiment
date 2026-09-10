@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python visual environment
+env/
+venv/
+ENV/
+VENV/
+
+# IDE settings files
+.vscode/
+.idea/
+*.iml
+
+# Mac system file
+.DS_Store
+
+# log file
+*.log
+
+# temporay files
+tmp/
+temp/
+
+# database files
+*.sqlite3
+*.db
+
+# Node modules (if use Node)
+node_modules/
+
+# environment variables
+.env
+
+# .idea information
+.idea/*
+
+# . others
+.DS_Store
+**/.DS_Store

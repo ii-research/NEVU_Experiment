@@ -1,0 +1,17 @@
+{
+  "schema": {
+    "description": "A compact and annotation-stable news genre taxonomy containing ten genre categories for news-domain texts."
+  },
+  "genre_definitions": {
+    "Current": "Time-sensitive reporting focused on recent or ongoing events, including straight news and current-event reporting.",
+    "Feature": "Longer-form, narrative, human-interest, lifestyle, or cultural reporting that is not primarily driven by immediate timeliness.",
+    "Special_Report": "In-depth or investigative reporting requiring extensive research and evidence gathering, often presenting a deep examination of a specific subject.",
+    "Attribution_QA": "Interview content presented primarily through explicit attribution, especially in a question-and-answer structure or direct quoted exchanges.",
+    "Opinion": "Authorial viewpoint or editorial content intended to express persuasion, normative judgment, commentary, or advocacy.",
+    "Background_Analysis": "Explainer or analytical content that provides background, synthesis, interpretation, contextualization, or causal reasoning.",
+    "Profile_Biography": "Person-centered reporting describing the life, background, experiences, or activities of an individual based on facts, research, and/or interviews.",
+    "Review": "Critical or evaluative content concerning creative works, services, products, performances, or consumer experiences.",
+    "Satire": "Content using humor, irony, parody, or exaggeration for satirical purposes and not intended to be interpreted as literal factual reporting.",
+    "Unspecified": "Fallback category for noisy, mixed, ambiguous, or out-of-scope items that cannot be reliably assigned to another genre."
+  }
+}
